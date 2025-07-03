@@ -7,6 +7,8 @@
 // @match        https://leetcode.cn/problems/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=leetcode.cn
 // @grant        none
+// @updateURL https://raw.githubusercontent.com/cznno/tampermonkey-scripts/refs/heads/main/leetcode-cn-show-formartted-title.js
+// @downloadURL https://raw.githubusercontent.com/cznno/tampermonkey-scripts/refs/heads/main/leetcode-cn-show-formartted-title.js
 // ==/UserScript==
 
 (function () {
